@@ -1,1 +1,1 @@
-This is design sample databse of it shop
+# designing a sample databsse of it shop
